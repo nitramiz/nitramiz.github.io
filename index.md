@@ -1,3 +1,6 @@
+[Liquid testnet test asset](https://nitramiz.github.io/.well-known/liquid-asset-proof-asd)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/nitramiz/nitramiz.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
